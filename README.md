@@ -2,9 +2,9 @@
 
 ## TODOS
 
-[ ] Brute force implementation
-[ ] OOP
-[ ] Quadtree optimization
+- [ ] Brute force implementation
+- [ ] OOP
+- [ ] Quadtree optimization
 
 ## 背景简介
 
